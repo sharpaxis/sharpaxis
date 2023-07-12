@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharpaxis(Aaditya)
-- 👀 I’m interested in Data Science, Machine Learning
+- 👀 I’m interested in Python, Data Science, Machine Learning
 - 🌱 I’m currently learning Btech CSE
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ...adityaiupac123@gmail.com
