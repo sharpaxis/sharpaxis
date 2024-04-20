@@ -1,3 +1,4 @@
+![GIF](https://media.giphy.com/media/A608loAlQgF4ag7k4m/giphy.gif)
 # 💫 About Me:
 👋 Hi, I’m @sharpaxis(Aaditya)<br>👀 I’m interested in Python, Data Science, Machine Learning,NLP,Deep Learning<br>🌱 I’m currently learning Btech CSE<br>💞️ I’m looking to collaborate on Data Science,NLP,Deep Learning<br>📫 How to reach me ...adityaiupac123@gmail.com
 
