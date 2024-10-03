@@ -1,17 +1,40 @@
-![GIF](https://media.giphy.com/media/A608loAlQgF4ag7k4m/giphy.gif)
-# 💫 About Me:
-👋 Hi, I’m @sharpaxis(Aaditya)<br>👀 I’m interested in Python, Data Science, Machine Learning,NLP,Deep Learning<br>🌱 I’m currently learning Btech CSE<br>💞️ I’m looking to collaborate on Data Science,NLP,Deep Learning<br>📫 How to reach me ...adityaiupac123@gmail.com
+# Aaditya (@sharpaxis)
 
+## About Me
+👋 Hi, I'm Aaditya, a BTech CSE student passionate about Data Science, Machine Learning, NLP, and Deep Learning.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%236DB33F?style=for-the-badge&logo=sql&logoColor=white)
+🌱 Currently exploring the depths of Python and its applications in AI and data analysis.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sharpaxis&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sharpaxis&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharpaxis&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💞️ Open to collaborations in Data Science, NLP, and Deep Learning projects.
+
+📫 Reach me at: adi.sharpaxis@gmail.com
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sharpaxis&show_icons=true&count_private=true&hide_border=true&theme=light&title_color=3498db&icon_color=3498db&text_color=2c3e50&bg_color=ffffff" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharpaxis&theme=light&hide_border=true&stroke=3498db&ring=3498db&fire=3498db&currStreakNum=2c3e50&sideNums=2c3e50&currStreakLabel=2c3e50&sideLabels=2c3e50&dates=3498db" width="48%" >
+
+<br clear="both">
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharpaxis&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=3498db&text_color=2c3e50)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sharpaxis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sharpaxis&label=Profile%20views&color=3498db&style=flat" alt="Profile views">
+</p>
